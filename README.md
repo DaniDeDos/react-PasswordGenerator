@@ -1,8 +1,11 @@
-# React + Vite
+# Generador de Contraseñas con React y Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es un generador de contraseñas seguras y personalizable creado con React y estilizado con Tailwind CSS. Permite a los usuarios generar contraseñas de diferentes longitudes y tipos de caracteres, incluyendo letras mayúsculas y minúsculas, números y símbolos. Además, cuenta con una funcionalidad para copiar la contraseña generada al portapapeles.
 
-Currently, two official plugins are available:
+## Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Generación de contraseñas seguras y personalizables.
+- Opciones para incluir letras mayúsculas, minúsculas, números y símbolos.
+- Funcionalidad para copiar la contraseña generada al portapapeles.
+- Diseño responsivo y atractivo gracias a Tailwind CSS.
+
